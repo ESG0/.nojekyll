@@ -1,0 +1,2 @@
+# .nojekyll
+for brave rewards
